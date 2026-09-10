@@ -1,4 +1,4 @@
-# Spam Email/SMS Detection
+# Spam Email/SMS Detection 
 
 A simple machine learning web application built with Streamlit to classify whether an email or SMS message is Spam or Not Spam.
 
